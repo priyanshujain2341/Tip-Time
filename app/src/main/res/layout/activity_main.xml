@@ -62,7 +62,7 @@
 
     </RadioGroup>
 
-    <Switch
+    <com.google.android.material.switchmaterial.SwitchMaterialg
         android:id="@+id/round_tip_switch"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
